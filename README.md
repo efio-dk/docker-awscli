@@ -1,5 +1,7 @@
 # AWS Cli environment
 
+Practical for running AWS cli on your build server.  
+
 usage:
 ```
 docker run \
